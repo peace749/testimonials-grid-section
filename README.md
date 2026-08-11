@@ -105,12 +105,6 @@ I want to continue improving my responsive design skills, especially:
 
 I used AI as a learning and development assistant during this project to:
 
-* Discuss the HTML structure before styling
-* Understand which colors from the style guide belonged to different elements
-* Review and improve my CSS
-* Understand responsive breakpoints
-* Compare Flexbox and CSS Grid approaches
-* Improve responsive sizing with `clamp()` and `min()`
 * Review my implementation and identify areas that could be improved
 
 I wrote and implemented the project myself, using AI mainly for guidance, explanations, and reviewing my work.
