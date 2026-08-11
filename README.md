@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View my solution on Frontend Mentor](YOUR_FRONTEND_MENTOR_SOLUTION_URL)
+- Solution URL: https://github.com/peace749/testimonials-grid-section.git
 - Live Site URL: [View the live site](YOUR_LIVE_SITE_URL)
 
 ## My process
