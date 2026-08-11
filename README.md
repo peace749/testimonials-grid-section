@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/peace749/testimonials-grid-section.git
-- Live Site URL: [View the live site](YOUR_LIVE_SITE_URL)
+- Live Site URL: https://peace749.github.io/testimonials-grid-section/
 
 ## My process
 
